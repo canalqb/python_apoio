@@ -1,0 +1,162 @@
+{
+  "C01": {
+    "name": "Google Chrome",
+    "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "user_data": "C:\\cdp-chrome-profile",
+    "base_port": 9222,
+    "download": "https://www.google.com/chrome/",
+    "category": "🏆 Popular"
+  },
+  "C02": {
+    "name": "Microsoft Edge",
+    "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "user_data": "C:\\cdp-edge-profile",
+    "base_port": 9223,
+    "download": "https://www.microsoft.com/edge",
+    "category": "🏆 Popular"
+  },
+  "C03": {
+    "name": "Brave Browser",
+    "path": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+    "user_data": "C:\\cdp-brave-profile",
+    "base_port": 9224,
+    "download": "https://brave.com/",
+    "category": "🔒 Privacidade"
+  },
+  "C04": {
+    "name": "Opera",
+    "path": "C:\\Users\\%USERNAME%\\AppData\\Local\\Programs\\Opera\\opera.exe",
+    "user_data": "C:\\cdp-opera-profile",
+    "base_port": 9225,
+    "download": "https://www.opera.com/",
+    "category": "🏆 Popular"
+  },
+  "C05": {
+    "name": "Vivaldi",
+    "path": "C:\\Users\\%USERNAME%\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe",
+    "user_data": "C:\\cdp-vivaldi-profile",
+    "base_port": 9226,
+    "download": "https://vivaldi.com/",
+    "category": "🏆 Popular"
+  },
+  "C06": {
+    "name": "Opera GX",
+    "path": "C:\\Users\\%USERNAME%\\AppData\\Local\\Programs\\Opera GX\\opera.exe",
+    "user_data": "C:\\cdp-operagx-profile",
+    "base_port": 9227,
+    "download": "https://www.opera.com/gx",
+    "category": "🎮 Gaming"
+  },
+  "C07": {
+    "name": "Chromium",
+    "path": "C:\\Program Files\\Chromium\\Application\\chrome.exe",
+    "user_data": "C:\\cdp-chromium-profile",
+    "base_port": 9228,
+    "download": "https://www.chromium.org/getting-involved/download-chromium/",
+    "category": "🧑‍💻 Dev"
+  },
+  "C08": {
+    "name": "Yandex Browser",
+    "path": "C:\\Users\\%USERNAME%\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "user_data": "C:\\cdp-yandex-profile",
+    "base_port": 9229,
+    "download": "https://browser.yandex.com/",
+    "category": "🌍 Regional"
+  },
+  "C09": {
+    "name": "Epic Privacy Browser",
+    "path": "C:\\Users\\%USERNAME%\\AppData\\Local\\Epic Privacy Browser\\Application\\epic.exe",
+    "user_data": "C:\\cdp-epic-profile",
+    "base_port": 9230,
+    "download": "https://www.epicbrowser.com/",
+    "category": "🔒 Privacidade"
+  },
+  "C10": {
+    "name": "Cent Browser",
+    "path": "C:\\Program Files\\CentBrowser\\Application\\chrome.exe",
+    "user_data": "C:\\cdp-cent-profile",
+    "base_port": 9231,
+    "download": "https://www.centbrowser.com/",
+    "category": "🌀 Alternativo"
+  },
+  "C11": {
+    "name": "Slimjet",
+    "path": "C:\\Program Files (x86)\\Slimjet\\slimjet.exe",
+    "user_data": "C:\\cdp-slimjet-profile",
+    "base_port": 9232,
+    "download": "https://www.slimjet.com/",
+    "category": "🌀 Alternativo"
+  },
+  "C12": {
+    "name": "SRWare Iron",
+    "path": "C:\\Program Files\\SRWare Iron\\iron.exe",
+    "user_data": "C:\\cdp-iron-profile",
+    "base_port": 9233,
+    "download": "https://www.srware.net/iron/",
+    "category": "🔒 Privacidade"
+  },
+  "C13": {
+    "name": "Torch Browser",
+    "path": "C:\\Users\\%USERNAME%\\AppData\\Local\\Torch\\Application\\torch.exe",
+    "user_data": "C:\\cdp-torch-profile",
+    "base_port": 9234,
+    "download": "https://www.torchbrowser.com/",
+    "category": "🌀 Alternativo"
+  },
+  "C14": {
+    "name": "Comodo Dragon",
+    "path": "C:\\Program Files\\Comodo\\Dragon\\dragon.exe",
+    "user_data": "C:\\cdp-dragon-profile",
+    "base_port": 9235,
+    "download": "https://www.comodo.com/home/browsers-toolbars/browser.php",
+    "category": "🔒 Privacidade"
+  },
+  "C15": {
+    "name": "Avast Secure Browser",
+    "path": "C:\\Program Files\\Avast Software\\Browser\\Application\\AvastBrowser.exe",
+    "user_data": "C:\\cdp-avast-profile",
+    "base_port": 9236,
+    "download": "https://www.avast.com/secure-browser",
+    "category": "🏢 Corporativo"
+  },
+  "C16": {
+    "name": "UC Browser",
+    "path": "C:\\Program Files (x86)\\UCBrowser\\Application\\UCBrowser.exe",
+    "user_data": "C:\\cdp-uc-profile",
+    "base_port": 9237,
+    "download": "https://www.ucweb.com/",
+    "category": "🌍 Regional"
+  },
+  "C17": {
+    "name": "Coc Coc Browser",
+    "path": "C:\\Program Files\\CocCoc\\Browser\\Application\\browser.exe",
+    "user_data": "C:\\cdp-coccoc-profile",
+    "base_port": 9238,
+    "download": "https://coccoc.com/",
+    "category": "🌍 Regional"
+  },
+  "C18": {
+    "name": "Ghost Browser",
+    "path": "C:\\Program Files\\Ghost Browser\\ghost.exe",
+    "user_data": "C:\\cdp-ghost-profile",
+    "base_port": 9239,
+    "download": "https://ghostbrowser.com/",
+    "category": "🏢 Corporativo"
+  },
+  "C19": {
+    "name": "Sidekick",
+    "path": "C:\\Users\\%USERNAME%\\AppData\\Local\\Programs\\Sidekick\\Sidekick.exe",
+    "user_data": "C:\\cdp-sidekick-profile",
+    "base_port": 9240,
+    "download": "https://www.meetsidekick.com/",
+    "category": "🏢 Corporativo"
+  },
+  "C20": {
+    "name": "Wavebox",
+    "path": "C:\\Program Files\\Wavebox\\Wavebox.exe",
+    "user_data": "C:\\cdp-wavebox-profile",
+    "base_port": 9241,
+    "download": "https://wavebox.io/",
+    "category": "🏢 Corporativo"
+  }
+}
