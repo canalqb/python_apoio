@@ -1,0 +1,106 @@
+{
+  "proxies": [
+    {
+      "name": "ProtonVPN Free",
+      "type": "http",
+      "host": "138.199.48.1",
+      "port": "8080",
+      "country": "🇺🇸 USA",
+      "active": true,
+      "speed": "medium",
+      "note": "Proxy gratuito do ProtonVPN - EUA"
+    },
+    {
+      "name": "Hide.me Free",
+      "type": "http",
+      "host": "141.98.234.8",
+      "port": "8080",
+      "country": "🇳🇱 Netherlands",
+      "active": true,
+      "speed": "fast",
+      "note": "Proxy gratuito Hide.me - Países Baixos"
+    },
+    {
+      "name": "Windscribe Free",
+      "type": "http",
+      "host": "185.107.56.12",
+      "port": "8080",
+      "country": "🇨🇦 Canada",
+      "active": true,
+      "speed": "medium",
+      "note": "Proxy gratuito Windscribe - Canadá"
+    },
+    {
+      "name": "TunnelBear Free",
+      "type": "http",
+      "host": "104.245.41.23",
+      "port": "8080",
+      "country": "🇬🇧 UK",
+      "active": true,
+      "speed": "medium",
+      "note": "Proxy gratuito TunnelBear - Reino Unido"
+    },
+    {
+      "name": "VPN Gate JP",
+      "type": "http",
+      "host": "133.106.161.36",
+      "port": "8080",
+      "country": "🇯🇵 Japan",
+      "active": true,
+      "speed": "slow",
+      "note": "VPN Gate (University of Tsukuba) - Japão"
+    },
+    {
+      "name": "Free Proxy BR",
+      "type": "http",
+      "host": "200.98.134.72",
+      "port": "8080",
+      "country": "🇧🇷 Brazil",
+      "active": true,
+      "speed": "medium",
+      "note": "Proxy público Brasil"
+    },
+    {
+      "name": "Squid Proxy DE",
+      "type": "http",
+      "host": "46.101.169.77",
+      "port": "8080",
+      "country": "🇩🇪 Germany",
+      "active": true,
+      "speed": "fast",
+      "note": "Proxy público Alemanha"
+    },
+    {
+      "name": "OpenVPN Free SG",
+      "type": "http",
+      "host": "139.59.246.93",
+      "port": "8080",
+      "country": "🇸🇬 Singapore",
+      "active": true,
+      "speed": "medium",
+      "note": "Proxy público Singapura"
+    }
+  ],
+  "config": {
+    "enable_proxies": true,
+    "fallback_to_no_proxy": true,
+    "rotation_strategy": "random",
+    "timeout_seconds": 10,
+    "retry_without_proxy": true
+  },
+  "notes": {
+    "important": "Estes proxies são públicos e gratuitos. A disponibilidade pode variar.",
+    "privacy": "Proxies públicos NÃO garantem privacidade total.",
+    "recommendation": "Para uso profissional, considere proxies pagos.",
+    "update": "Atualize esta lista regularmente para manter proxies funcionais.",
+    "testing": "Teste os proxies antes de uso massivo.",
+    "sources": [
+      "https://www.proxy-list.download/",
+      "https://free-proxy-list.net/",
+      "https://www.vpngate.net/",
+      "https://protonvpn.com/free-vpn",
+      "https://hide.me/en/proxy",
+      "https://windscribe.com/vpn/proxy"
+    ]
+  }
+}
