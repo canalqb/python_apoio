@@ -1686,7 +1686,7 @@
     "host": "103.253.43.144",
     "port": "80",
     "country": "🇭🇰 Hong Kong",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Hong Kong"
   },
@@ -2296,7 +2296,7 @@
     "host": "84.39.112.144",
     "port": "3128",
     "country": "Switzerland",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Switzerland"
   },
@@ -2406,7 +2406,7 @@
     "host": "89.110.80.195",
     "port": "10149",
     "country": "Netherlands",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Netherlands"
   },
