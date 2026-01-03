@@ -2416,7 +2416,7 @@
     "host": "213.73.25.230",
     "port": "8080",
     "country": "Poland",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Poland"
   },
