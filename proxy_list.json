@@ -1556,7 +1556,7 @@
     "host": "212.114.194.74",
     "port": "80",
     "country": "Germany",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Germany"
   },
