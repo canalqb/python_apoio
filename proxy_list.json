@@ -2486,7 +2486,7 @@
     "host": "65.111.6.141",
     "port": "3129",
     "country": "United States",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público United States"
   },
