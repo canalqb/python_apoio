@@ -226,7 +226,7 @@
     "host": "95.173.218.69",
     "port": "8082",
     "country": "Singapore",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Singapore"
   },
@@ -2336,7 +2336,7 @@
     "host": "149.129.226.9",
     "port": "104",
     "country": "🇮🇩 Indonesia",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Indonesia"
   },
