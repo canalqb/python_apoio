@@ -1726,7 +1726,7 @@
     "host": "14.195.222.147",
     "port": "80",
     "country": "India",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público India"
   },
