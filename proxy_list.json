@@ -106,7 +106,7 @@
     "host": "175.139.233.76",
     "port": "80",
     "country": "Malaysia",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Malaysia"
   },
@@ -436,7 +436,7 @@
     "host": "65.108.103.19",
     "port": "80",
     "country": "Finland",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Finland"
   },
