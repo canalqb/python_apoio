@@ -1056,7 +1056,7 @@
     "host": "102.210.105.1",
     "port": "82",
     "country": "Kenya",
-    "active": false,
+    "active": true,
     "speed": "medium",
     "note": "Proxy público Kenya"
   },
