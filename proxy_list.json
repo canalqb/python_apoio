@@ -2256,7 +2256,7 @@
     "host": "197.221.249.197",
     "port": "80",
     "country": "Zimbabwe",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Zimbabwe"
   },
