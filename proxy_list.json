@@ -386,7 +386,7 @@
     "host": "85.220.141.220",
     "port": "80",
     "country": "Germany",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Germany"
   },
@@ -1436,7 +1436,7 @@
     "host": "194.158.203.14",
     "port": "80",
     "country": "Belarus",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Belarus"
   },
