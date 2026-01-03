@@ -1656,7 +1656,7 @@
     "host": "41.220.16.218",
     "port": "80",
     "country": "Zimbabwe",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Zimbabwe"
   },
