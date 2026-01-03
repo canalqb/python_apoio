@@ -2586,7 +2586,7 @@
     "host": "190.188.131.87",
     "port": "8080",
     "country": "Argentina",
-    "active": false,
+    "active": true,
     "speed": "medium",
     "note": "Proxy público Argentina"
   },
