@@ -456,7 +456,7 @@
     "host": "41.139.151.147",
     "port": "80",
     "country": "Kenya",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Kenya"
   },
@@ -1736,7 +1736,7 @@
     "host": "189.253.203.28",
     "port": "80",
     "country": "Mexico",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Mexico"
   },
