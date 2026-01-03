@@ -2546,7 +2546,7 @@
     "host": "46.202.67.190",
     "port": "6186",
     "country": "United States",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público United States"
   },
