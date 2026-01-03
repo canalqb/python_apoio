@@ -696,7 +696,7 @@
     "host": "47.6.9.54",
     "port": "80",
     "country": "United States",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público United States"
   },
@@ -2346,7 +2346,7 @@
     "host": "46.47.197.210",
     "port": "3128",
     "country": "🇷🇺 Russia",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Russian Federation"
   },
