@@ -81,7 +81,7 @@
     "note": "Proxy público Bangladesh"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 1",
     "type": "http",
     "host": "8.211.51.115",
     "port": "5060",
@@ -211,7 +211,7 @@
     "note": "Proxy público Argentina"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 2",
     "type": "http",
     "host": "194.87.77.22",
     "port": "80",
@@ -261,7 +261,7 @@
     "note": "Proxy público Singapore"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 3",
     "type": "http",
     "host": "212.114.194.78",
     "port": "80",
@@ -271,7 +271,7 @@
     "note": "Proxy público Germany"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 4",
     "type": "http",
     "host": "212.114.194.75",
     "port": "80",
@@ -371,7 +371,7 @@
     "note": "Proxy público Zimbabwe"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 5",
     "type": "http",
     "host": "212.114.194.72",
     "port": "80",
@@ -381,7 +381,7 @@
     "note": "Proxy público Germany"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 6",
     "type": "http",
     "host": "85.220.141.220",
     "port": "80",
@@ -631,7 +631,7 @@
     "note": "Proxy público Thailand"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 7",
     "type": "http",
     "host": "161.35.70.249",
     "port": "80",
@@ -751,7 +751,7 @@
     "note": "Proxy público Hong Kong"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 8",
     "type": "http",
     "host": "213.157.6.50",
     "port": "80",
@@ -821,7 +821,7 @@
     "note": "Proxy público Japan"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 9",
     "type": "http",
     "host": "212.114.194.73",
     "port": "80",
@@ -1161,7 +1161,7 @@
     "note": "Proxy público Indonesia"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 10",
     "type": "http",
     "host": "81.169.170.253",
     "port": "3128",
@@ -1321,7 +1321,7 @@
     "note": "Proxy público United States"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 11",
     "type": "http",
     "host": "87.120.166.178",
     "port": "8080",
@@ -1401,7 +1401,7 @@
     "note": "Proxy público Singapore"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 12",
     "type": "http",
     "host": "212.114.194.76",
     "port": "80",
@@ -1491,7 +1491,7 @@
     "note": "Proxy público Lesotho"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 13",
     "type": "http",
     "host": "193.36.85.226",
     "port": "80",
@@ -1521,7 +1521,7 @@
     "note": "Proxy público Austria"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 14",
     "type": "http",
     "host": "80.74.54.148",
     "port": "3128",
@@ -1551,7 +1551,7 @@
     "note": "Proxy público Australia"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 15",
     "type": "http",
     "host": "212.114.194.74",
     "port": "80",
@@ -2151,7 +2151,7 @@
     "note": "Proxy público South Korea"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 16",
     "type": "http",
     "host": "81.169.213.169",
     "port": "8888",
@@ -2161,7 +2161,7 @@
     "note": "Proxy público Germany"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 17",
     "type": "http",
     "host": "89.58.55.33",
     "port": "80",
@@ -2171,7 +2171,7 @@
     "note": "Proxy público Germany"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 18",
     "type": "http",
     "host": "89.58.57.45",
     "port": "80",
@@ -2201,7 +2201,7 @@
     "note": "Proxy público Singapore"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 19",
     "type": "http",
     "host": "212.114.194.79",
     "port": "80",
@@ -2361,7 +2361,7 @@
     "note": "Proxy público Singapore"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 20",
     "type": "http",
     "host": "212.227.65.114",
     "port": "80",
@@ -2991,7 +2991,7 @@
     "note": "Proxy público Dominican Republic"
   },
   {
-    "name": "Public Proxy DE",
+    "name": "Public Proxy DE 21",
     "type": "http",
     "host": "91.99.181.245",
     "port": "80",
