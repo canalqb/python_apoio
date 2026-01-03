@@ -2506,7 +2506,7 @@
     "host": "5.61.62.24",
     "port": "8118",
     "country": "United Kingdom",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público United Kingdom"
   },
@@ -2586,7 +2586,7 @@
     "host": "190.188.131.87",
     "port": "8080",
     "country": "Argentina",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Argentina"
   },
