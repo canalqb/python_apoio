@@ -1056,7 +1056,7 @@
     "host": "102.210.105.1",
     "port": "82",
     "country": "Kenya",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Kenya"
   },
@@ -2766,7 +2766,7 @@
     "host": "163.223.78.87",
     "port": "3127",
     "country": "🇮🇩 Indonesia",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Indonesia"
   },
