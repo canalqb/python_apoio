@@ -2996,7 +2996,7 @@
     "host": "91.99.181.245",
     "port": "80",
     "country": "Germany",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Germany"
   }
