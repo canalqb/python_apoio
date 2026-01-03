@@ -2056,7 +2056,7 @@
     "host": "157.180.118.86",
     "port": "80",
     "country": "Finland",
-    "active": true,
+    "active": false,
     "speed": "medium",
     "note": "Proxy público Finland"
   },
