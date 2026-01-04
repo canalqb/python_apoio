@@ -10,7 +10,7 @@
   "C02": {
     "name": "Microsoft Edge",
     "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
-    "user_data": "C:\\cdp\\cdp-edge-profile",
+    "user_data": "C:\\cdp-edge-profile",
     "base_port": 9223,
     "download": "https://canalqb.blogspot.com/?c=edgew",
     "category": "🏆 Popular"
@@ -18,7 +18,7 @@
   "C03": {
     "name": "Brave Browser",
     "path": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
-    "user_data": "C:\\cdp\\cdp-brave-profile",
+    "user_data": "C:\\cdp-brave-profile",
     "base_port": 9224,
     "download": "https://canalqb.blogspot.com/?c=bravew",
     "category": "🔒 Privacidade"
@@ -26,7 +26,7 @@
   "C04": {
     "name": "Opera",
     "path": "C:\\Users\\%USERNAME%\\AppData\\Local\\Programs\\Opera\\opera.exe",
-    "user_data": "C:\\cdp\\cdp-opera-profile",
+    "user_data": "C:\\cdp-opera-profile",
     "base_port": 9225,
     "download": "https://canalqb.blogspot.com/?c=operaw",
     "category": "🏆 Popular"
@@ -34,7 +34,7 @@
   "C05": {
     "name": "Vivaldi",
     "path": "C:\\Users\\%USERNAME%\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe",
-    "user_data": "C:\\cdp\\cdp-vivaldi-profile",
+    "user_data": "C:\\cdp-vivaldi-profile",
     "base_port": 9226,
     "download": "https://canalqb.blogspot.com/?c=vivaldiw",
     "category": "🏆 Popular"
@@ -42,7 +42,7 @@
   "C06": {
     "name": "Opera GX",
     "path": "C:\\Users\\%USERNAME%\\AppData\\Local\\Programs\\Opera GX\\opera.exe",
-    "user_data": "C:\\cdp\\cdp-operagx-profile",
+    "user_data": "C:\\cdp-operagx-profile",
     "base_port": 9227,
     "download": "https://canalqb.blogspot.com/?c=operagxw",
     "category": "🎮 Gaming"
@@ -50,7 +50,7 @@
   "C07": {
     "name": "Chromium",
     "path": "C:\\Program Files\\Chromium\\Application\\chrome.exe",
-    "user_data": "C:\\cdp\\cdp-chromium-profile",
+    "user_data": "C:\\cdp-chromium-profile",
     "base_port": 9228,
     "download": "https://canalqb.blogspot.com/?c=chromium",
     "category": "🧑‍💻 Dev"
@@ -58,7 +58,7 @@
   "C08": {
     "name": "Yandex Browser",
     "path": "C:\\Users\\%USERNAME%\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
-    "user_data": "C:\\cdp\\cdp-yandex-profile",
+    "user_data": "C:\\cdp-yandex-profile",
     "base_port": 9229,
     "download": "https://canalqb.blogspot.com/?c=yandexw",
     "category": "🌍 Regional"
@@ -66,7 +66,7 @@
   "C09": {
     "name": "Epic Privacy Browser",
     "path": "C:\\Users\\%USERNAME%\\AppData\\Local\\Epic Privacy Browser\\Application\\epic.exe",
-    "user_data": "C:\\cdp\\cdp-epic-profile",
+    "user_data": "C:\\cdp-epic-profile",
     "base_port": 9230,
     "download": "https://canalqb.blogspot.com/?c=epicw",
     "category": "🔒 Privacidade"
@@ -74,7 +74,7 @@
   "C10": {
     "name": "Cent Browser",
     "path": "C:\\Program Files\\CentBrowser\\Application\\chrome.exe",
-    "user_data": "C:\\cdp\\cdp-cent-profile",
+    "user_data": "C:\\cdp-cent-profile",
     "base_port": 9231,
     "download": "https://canalqb.blogspot.com/?c=centw",
     "category": "🌀 Alternativo"
@@ -82,7 +82,7 @@
   "C11": {
     "name": "Slimjet",
     "path": "C:\\Program Files (x86)\\Slimjet\\slimjet.exe",
-    "user_data": "C:\\cdp\\cdp-slimjet-profile",
+    "user_data": "C:\\cdp-slimjet-profile",
     "base_port": 9232,
     "download": "https://canalqb.blogspot.com/?c=slimjetw",
     "category": "🌀 Alternativo"
@@ -90,7 +90,7 @@
   "C12": {
     "name": "SRWare Iron",
     "path": "C:\\Program Files\\SRWare Iron\\iron.exe",
-    "user_data": "C:\\cdp\\cdp-iron-profile",
+    "user_data": "C:\\cdp-iron-profile",
     "base_port": 9233,
     "download": "https://canalqb.blogspot.com/?c=srwarew",
     "category": "🔒 Privacidade"
@@ -98,7 +98,7 @@
   "C13": {
     "name": "Torch Browser",
     "path": "C:\\Users\\%USERNAME%\\AppData\\Local\\Torch\\Application\\torch.exe",
-    "user_data": "C:\\cdp\\cdp-torch-profile",
+    "user_data": "C:\\cdp-torch-profile",
     "base_port": 9234,
     "download": "https://canalqb.blogspot.com/?c=torchw",
     "category": "🌀 Alternativo"
@@ -106,7 +106,7 @@
   "C14": {
     "name": "Comodo Dragon",
     "path": "C:\\Program Files\\Comodo\\Dragon\\dragon.exe",
-    "user_data": "C:\\cdp\\cdp-dragon-profile",
+    "user_data": "C:\\cdp-dragon-profile",
     "base_port": 9235,
     "download": "https://canalqb.blogspot.com/?c=comodow",
     "category": "🔒 Privacidade"
@@ -114,7 +114,7 @@
   "C15": {
     "name": "Avast Secure Browser",
     "path": "C:\\Program Files\\Avast Software\\Browser\\Application\\AvastBrowser.exe",
-    "user_data": "C:\\cdp\\cdp-avast-profile",
+    "user_data": "C:\\cdp-avast-profile",
     "base_port": 9236,
     "download": "https://canalqb.blogspot.com/?c=avastbrowserw",
     "category": "🏢 Corporativo"
@@ -122,7 +122,7 @@
   "C16": {
     "name": "UC Browser",
     "path": "C:\\Program Files (x86)\\UCBrowser\\Application\\UCBrowser.exe",
-    "user_data": "C:\\cdp\\cdp-uc-profile",
+    "user_data": "C:\\cdp-uc-profile",
     "base_port": 9237,
     "download": "https://canalqb.blogspot.com/?c=ucbrowserw",
     "category": "🌍 Regional"
@@ -130,7 +130,7 @@
   "C17": {
     "name": "Coc Coc Browser",
     "path": "C:\\Program Files\\CocCoc\\Browser\\Application\\browser.exe",
-    "user_data": "C:\\cdp\\cdp-coccoc-profile",
+    "user_data": "C:\\cdp-coccoc-profile",
     "base_port": 9238,
     "download": "https://canalqb.blogspot.com/?c=coccocw",
     "category": "🌍 Regional"
@@ -138,7 +138,7 @@
   "C18": {
     "name": "Ghost Browser",
     "path": "C:\\Program Files\\Ghost Browser\\ghost.exe",
-    "user_data": "C:\\cdp\\cdp-ghost-profile",
+    "user_data": "C:\\cdp-ghost-profile",
     "base_port": 9239,
     "download": "https://canalqb.blogspot.com/?c=ghostw",
     "category": "🏢 Corporativo"
@@ -146,15 +146,15 @@
   "C19": {
     "name": "Perplexity", 
 	"path": "C:\\Users\\%USERNAME%\\AppData\\Local\\Perplexity\\Comet\\Application\\comet.exe", 
-    "user_data": "C:\\cdp\\cdp-perplexity-profile",
+    "user_data": "C:\\cdp-sidekick-profile",
     "base_port": 9240,
     "download": "https://canalqb.blogspot.com/?c=perplexityw",
-    "category": "🏢 Alternativo"
+    "category": "🏢 Corporativo"
   },
   "C20": {
     "name": "Wavebox",
     "path": "C:\\Program Files\\Wavebox\\Wavebox.exe",
-    "user_data": "C:\\cdp\\cdp-wavebox-profile",
+    "user_data": "C:\\cdp-wavebox-profile",
     "base_port": 9241,
     "download": "https://canalqb.blogspot.com/?c=waveboxw",
     "category": "🏢 Corporativo"
