@@ -2,7 +2,7 @@
   "C01": {
     "name": "Google Chrome",
     "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
-    "user_data": "C:\\cdp\\cdp-chrome-profile",
+    "user_data": "C:\\cdp\cdp-chrome-profile",
     "base_port": 9222,
     "download": "https://canalqb.blogspot.com/?c=chromew",
     "category": "🏆 Popular"
@@ -144,8 +144,8 @@
     "category": "🏢 Corporativo"
   },
   "C19": {
-    "name": "Perplexity",
-    "path": "C:\\Users\\%USERNAME%\\AppData\\Local\\Perplexity\\Comet\\Application\\comet.exe",
+    "name": "Perplexity", 
+	"path": "C:\\Users\\%USERNAME%\\AppData\\Local\\Perplexity\\Comet\\Application\\comet.exe", 
     "user_data": "C:\\cdp\\cdp-perplexity-profile",
     "base_port": 9240,
     "download": "https://canalqb.blogspot.com/?c=perplexityw",
