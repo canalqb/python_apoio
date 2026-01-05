@@ -126,7 +126,7 @@
       "host": "46.161.6.165",
       "port": "8080",
       "country": "🇷🇺 Russia",
-      "active": true,
+      "active": false,
       "speed": "medium",
       "note": "Proxy público Russian Federation"
     },
