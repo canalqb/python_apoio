@@ -1856,7 +1856,7 @@
       "host": "115.127.180.150",
       "port": "2589",
       "country": "🇧🇩 Bangladesh",
-      "active": true,
+      "active": false,
       "speed": "medium",
       "note": "Proxy público Bangladesh"
     },
