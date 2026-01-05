@@ -216,7 +216,7 @@
       "host": "194.87.77.22",
       "port": "80",
       "country": "Germany",
-      "active": true,
+      "active": false,
       "speed": "medium",
       "note": "Proxy público Germany"
     },
