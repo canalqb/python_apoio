@@ -626,7 +626,7 @@
       "host": "43.208.240.77",
       "port": "12587",
       "country": "Thailand",
-      "active": true,
+      "active": false,
       "speed": "medium",
       "note": "Proxy público Thailand"
     },
@@ -1506,7 +1506,7 @@
       "host": "101.47.17.165",
       "port": "7890",
       "country": "Singapore",
-      "active": true,
+      "active": false,
       "speed": "medium",
       "note": "Proxy público Singapore"
     },
@@ -2836,7 +2836,7 @@
       "host": "45.4.202.170",
       "port": "999",
       "country": "Ecuador",
-      "active": true,
+      "active": false,
       "speed": "medium",
       "note": "Proxy público Ecuador"
     },
