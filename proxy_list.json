@@ -2846,7 +2846,7 @@
       "host": "103.167.4.10",
       "port": "8080",
       "country": "🇮🇩 Indonesia",
-      "active": true,
+      "active": false,
       "speed": "medium",
       "note": "Proxy público Indonesia"
     },
