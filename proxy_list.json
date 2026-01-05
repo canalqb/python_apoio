@@ -1326,7 +1326,7 @@
       "host": "87.120.166.178",
       "port": "8080",
       "country": "Germany",
-      "active": true,
+      "active": false,
       "speed": "medium",
       "note": "Proxy público Germany"
     },
@@ -2796,7 +2796,7 @@
       "host": "180.180.175.11",
       "port": "8080",
       "country": "Thailand",
-      "active": true,
+      "active": false,
       "speed": "medium",
       "note": "Proxy público Thailand"
     },
