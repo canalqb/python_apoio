@@ -2596,7 +2596,7 @@
       "host": "41.70.10.14",
       "port": "8080",
       "country": "Malawi",
-      "active": true,
+      "active": false,
       "speed": "medium",
       "note": "Proxy público Malawi"
     },
