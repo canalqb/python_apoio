@@ -776,7 +776,7 @@
       "host": "52.188.28.218",
       "port": "3128",
       "country": "United States",
-      "active": false,
+      "active": true,
       "speed": "medium",
       "note": "Proxy público United States"
     },
