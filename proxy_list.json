@@ -416,7 +416,7 @@
       "host": "195.158.8.123",
       "port": "3128",
       "country": "Uzbekistan",
-      "active": true,
+      "active": false,
       "speed": "medium",
       "note": "Proxy público Uzbekistan"
     },
